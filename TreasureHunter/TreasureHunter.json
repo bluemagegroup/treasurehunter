@@ -2,11 +2,12 @@
   "Author": "Blue Mage Group",
   "Name": "Treasure Hunter",
   "Punchline": "A plugin to make managing treasure hunts easier.",
-  "Description": "A plugin to help make managing treasure hunts easier. Still a WIP.",
+  "Description": "A plugin to help make managing treasure hunts easier. Still a WIP. /thunt to open main window.",
   "ApplicableVersion": "any",
   "Tags": [
     "treasure hunt",
     "treasure",
-    "maps"
+    "maps",
+    "companion"
   ]
 }

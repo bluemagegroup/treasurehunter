@@ -11,7 +11,7 @@ namespace TreasureHunter
     public sealed class Plugin : IDalamudPlugin
     {
         public string Name => "Treasure Hunter";
-        private const string CommandName = "/pmycommand";
+        private const string CommandName = "/thunt";
 
         private DalamudPluginInterface PluginInterface { get; init; }
         private ICommandManager CommandManager { get; init; }
